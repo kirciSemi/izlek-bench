@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "sha256": "0a8fec58caa1b6aff82b6f676225ba9e8c705aa299926137aa44e6389d8e62e2",
+  "total": 72,
+  "test": 60,
+  "dev": 12,
+  "pairs": 36,
+  "human_review": "pending",
+  "experiment_records": "results/published/study.json (separate from dataset generation)"
+}
